@@ -1,5 +1,5 @@
  ## Hi I'm Muhammad Ishaq👋
-👋<br>An aspiring C++ and Python developer with a passion for learning and building impactful projects.<br><br>🌟 I’m currently working on:<br><br>Enhancing my skills in C++ and Python<br><br>Developing a simple cricket prediction program.<br><br><br>🏏 Apart from coding, I’m deeply passionate about Cricket.<br><br><br>💼 My expertise includes:<br><br>Programming in C++ and Python.<br><br>Photography<br><br><br>📫 Reach out to me at ishaqshamraiz33@gmail.com 
+👋<br>An aspiring C++ and Python developer with a passion for learning and building impactful projects.<br><br>🌟 I’m currently working on:<br><br>Enhancing my skills in C++ and Python<br><br>Developing a simple cricket prediction program.<br><br><br>🏏 Apart from coding, I’m deeply passionate about Cricket.<br><br><br>💼 My expertise includes:<br><br>Programming in C++ and Python.<br><br>Photography<br><br><br>📫 Reach out to me at <br><br> 📧Email: ishaqshamraiz33@gmail.com<br> 
 🌐 Website: https://ishaq183.github.io/Portfolio/
 
 
