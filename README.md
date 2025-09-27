@@ -1,4 +1,8 @@
- ## Hi I'm Muhammad Ishaq👋
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="150px" alt="wave" />
+</div>
+ 
+ ### Hi I'm Muhammad Ishaq👋
 👋<br>An aspiring C++ and Python developer with a passion for learning and building impactful projects.<br><br>🌟 I’m currently working on:<br><br>Enhancing my skills in C++ and Python<br><br>Developing a simple cricket prediction program.<br><br><br>🏏 Apart from coding, I’m deeply passionate about Cricket.<br><br><br>💼 My expertise includes:<br><br>Programming in C++ and Python.<br><br>Photography<br><br><br>📫 Reach out to me at <br><br> 📧Email: ishaqshamraiz33@gmail.com<br> <br>
 🌐 Website: https://ishaq183.github.io/Portfolio/
 
@@ -13,9 +17,22 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ishaq183&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ishaq183&theme=aura&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ishaq183&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ishaq183&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishaq183&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ishaq183/ishaq183/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600px" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaq183&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</div>
 
 
 
