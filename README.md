@@ -30,7 +30,7 @@ An aspiring **C++ and Python Developer** with a passion for learning and buildin
 
 📫 **Reach Me At:**  
 📧 Email: ishaqshamraiz33@gmail.com  
-🌐 Website: [Portfolio](https://ishaq183.github.io/Portfolio/)  
+🌐 Website: [Portfolio](https://ishaqmuhammad.github.io/Portfolio/)  
 
 ---
 
