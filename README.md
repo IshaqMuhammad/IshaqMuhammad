@@ -63,23 +63,23 @@ An aspiring **C++ and Python Developer** with a passion for learning and buildin
 
 # 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishaq183&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ishaqmuhammad&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishaq183&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishaqmuhammad&theme=radical" alt="GitHub Streak" />
 </p>
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600px" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaq183&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaqmuhammad&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
 ---
 
 ## 🏆 GitHub Trophies  
-![](https://github-profile-trophy.vercel.app/?username=ishaq183&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ishaqmuhammad&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
@@ -89,9 +89,9 @@ An aspiring **C++ and Python Developer** with a passion for learning and buildin
 ---
 
 ## 📈 Activity Graph  
-[![Ishaq's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ishaq183&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ishaq's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ishaqmuhammad&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=ishaq183&icon=2&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ishaqmuhammad&icon=2&color=6)](https://visitcount.itsvg.in)
 
