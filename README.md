@@ -84,7 +84,7 @@ An aspiring **C++ and Python Developer** with a passion for learning and buildin
 ---
 
 ### 🔝 Top Contributed Repo  
-![](https://github-contributor-stats.vercel.app/api?username=ishaq183&limit=5&theme=calm_pink&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=ishaqmuhammad&limit=5&theme=calm_pink&combine_all_yearly_contributions=true)
 
 ---
 
