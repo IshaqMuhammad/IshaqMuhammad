@@ -21,11 +21,12 @@
 ---
 
 ### 💡 About Me  
+I am a Computer Science student. I have intrest in techical feilds. I also have a great base in Python, C++ and along with these two i also have knowledge about HTML, CSS and Javascript. As till I am a learner but i belive that one day I will become good in web development (Insha Allah). 
+
 An aspiring **C++ and Python Developer** with a passion for learning and building impactful projects.  
 
 - 🌱 Currently enhancing my **C++ and Python** skills  
-- 🏏 Working on a **Cricket Prediction Program**  
-- 💼 Expertise: **C++ | Python | Git | Streamlit | PostgreSQL**  
+- 💼 My projects are Blood Bank Database, Smart City Waste Collection System and also a streamlit based Youtube video downloader.  
 - 🎨 Hobbies: **Cricket & Photography**  
 
 📫 **Reach Me At:**  
