@@ -41,7 +41,6 @@ An aspiring **C++ and Python Developer** with a passion for learning and buildin
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28964624/ishaq-shamraiz?tab=profile) 
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@ishaq.shamraiz) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@IshaqShamraiz)  
-
 ---
 
 ## ✨ Quote of the Day  
@@ -62,31 +61,34 @@ An aspiring **C++ and Python Developer** with a passion for learning and buildin
 
 ---
 
-# 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishaqmuhammad&show_icons=true&theme=radical" alt="GitHub Stats" />
+# 📊 GitHub Stats 
+<p align= "center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ishaqmuhammad&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishaqmuhammad&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishaqmuhammad&theme=transparent" alt="GitHub Streak" />
 </p>
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600px" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaqmuhammad&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshaqMuhammad&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
 ---
 
 ## 🏆 GitHub Trophies  
-![](https://github-profile-trophy.vercel.app/?username=ishaqmuhammad&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=IshaqMuhammad&theme=transparent&no-frame=true&no-bg=true&margin-w=4" />
+</p>
 
 ---
 
 ### 🔝 Top Contributed Repo  
-![](https://github-contributor-stats.vercel.app/api?username=ishaqmuhammad&limit=5&theme=calm_pink&combine_all_yearly_contributions=true)
-
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=IshaqMuhammad&limit=5&theme=transparent&combine_all_yearly_contributions=true" />
+</p>
 ---
 
 ## 📈 Activity Graph  
